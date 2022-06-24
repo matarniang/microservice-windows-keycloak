@@ -1,0 +1,12 @@
+entity DemandeWindows {
+	nomApp String,
+    password String,
+    action String,
+    status String,
+    message String,
+    dateDemande LocalDate,
+    dateRetour LocalDate,
+    User String
+}
+
+
